@@ -6,3 +6,4 @@ shap==0.44.1
 lime==0.2.0.1
 fairlearn==0.7.0
 matplotlib==3.7.1
+nltk==3.8.1
